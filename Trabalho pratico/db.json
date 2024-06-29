@@ -1,0 +1,38 @@
+{
+    "colegas": [
+      {
+        "name": "Eduardo Rassi",
+        "image": "https://avatars.githubusercontent.com/u/164038190?v=4",
+        "github": "https://github.com/eduardorassi"
+      },
+      {
+        "name": "Glauco",
+        "image": "https://avatars.githubusercontent.com/u/167258109?v=4",
+        "github": "https://github.com/glaucoschettino"
+      },
+      {
+        "name": "Samuel Lage",
+        "image": "https://avatars.githubusercontent.com/u/166873506?v=4",
+        "github": "https://github.com/samuellagee"
+      }
+    ],
+    "sugestoes": [
+      {
+        "title": "COMO EU COMEÇARIA HOJE NA PROGRAMAÇÃO. MUDE ISSO AGORA!",
+        "videoId": "0T1E7dh8CEA"
+      },
+      {
+        "title": "COMO SE TORNAR PROGRAMADOR EM 2024",
+        "videoId": "Kf68YBMOPoM"
+      },
+      {
+        "title": "REQUISITOS PARA PROGRAMADOR JUNIOR | PRIMEIRA VAGA COMO DEV",
+        "videoId": "Rph8JZ12I78"
+      },
+      {
+        "title": "O PROGRAMADOR JÚNIOR ESTÁ FODID*! (A verdade que ninguém quer falar)",
+        "videoId": "xo29GFnu5QU"
+      }
+    ]
+  }
+  
